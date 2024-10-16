@@ -1,0 +1,12 @@
+.description {
+  text-align: center;
+  color: rgb(227, 212, 224);
+  border: solid;
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  background-color: blueviolet;
+}
+image {
+  border: solid;
+}

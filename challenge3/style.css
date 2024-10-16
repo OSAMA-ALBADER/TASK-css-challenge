@@ -1,11 +1,19 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow-y: scroll;
 }
 .head {
+  background-color: yellow;
+  color: blue;
+  top: 0;
+  position: sticky;
 }
 
 .row {
-  /* .row is used in ./index.js not in the html filee */
+  background-color: rgb(106, 26, 203);
+  scroll-behavior: smooth;
 }
 
 /* This is a gift - Does not need editing */
